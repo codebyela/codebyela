@@ -190,7 +190,7 @@ Co-Founder<br/>Live Product
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=codebyela&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Ela%20Erdem%20GitHub%20Stats" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=codebyela&show_icons=true&theme=algolia&hide_border=true&count_private=true&rank_icon=github&custom_title=Ela%20Erdem%20GitHub%20Stats" />
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyela&layout=compact&theme=algolia&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
 
@@ -200,7 +200,7 @@ Co-Founder<br/>Live Product
 
 <br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=codebyela&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
+<img width="92%" src="https://ghchart.rshah.org/7C3AED/codebyela" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -218,7 +218,6 @@ Co-Founder<br/>Live Product
 
 </div>
 
-> Snake grafiği için repoya bir GitHub Action eklenmesi gerekir. Action eklenmezse bu bölüm görünmeyebilir.
 
 ---
 
