@@ -186,26 +186,6 @@ Co-Founder<br/>Live Product
 
 ---
 
-# ✦ GitHub Analytics Center
-
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=codebyela&show_icons=true&theme=algolia&hide_border=true&count_private=true&rank_icon=github&custom_title=Ela%20Erdem%20GitHub%20Stats" />
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyela&layout=compact&theme=algolia&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
-
-<br/>
-
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyela&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-<br/>
-
-<img width="92%" src="https://ghchart.rshah.org/7C3AED/codebyela" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
 # ✦ Contribution Snake
 
 <div align="center">
